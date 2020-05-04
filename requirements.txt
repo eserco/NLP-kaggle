@@ -1,0 +1,6 @@
+pandas==0.19.0
+tensorflow-gpu==2.1.0
+spacy==2.2.3
+spacy-lookups-data==0.2.0
+scikit-learn==0.22.1
+gensim=3.8.1 
